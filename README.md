@@ -1,2 +1,2 @@
-# cdr11batch
-Registration System for 11 Batch Convocation Dinner Party (UCSMTLA) 
+# cdrs
+Convocation Dinner Registration, Payment Confirmation, Generate Receipt PDF for Batch 12 UCSMTLA Students

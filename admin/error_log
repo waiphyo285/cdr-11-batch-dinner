@@ -1,0 +1,252 @@
+[11-Nov-2019 10:09:45 Etc/GMT] PHP Notice:  Undefined index: username in /home/waiphyo719/public_html/cdr-ucsmtla/admin/index.php on line 46
+[11-Nov-2019 14:04:16 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/waiphyo719/public_html/cdr-ucsmtla/admin/request-confirm.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/waiphyo719/public_html/cdr-ucsmtla/admin/request-confirm.php on line 19
+[11-Nov-2019 14:04:20 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/waiphyo719/public_html/cdr-ucsmtla/admin/request-confirm.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/waiphyo719/public_html/cdr-ucsmtla/admin/request-confirm.php on line 19
+[11-Nov-2019 14:12:08 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/waiphyo719/public_html/cdr-ucsmtla/admin/request-confirm.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/waiphyo719/public_html/cdr-ucsmtla/admin/request-confirm.php on line 19
+[11-Nov-2019 16:50:03 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/waiphyo719/public_html/cdr-ucsmtla/admin/confirm-register.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/waiphyo719/public_html/cdr-ucsmtla/admin/confirm-register.php on line 23
+[11-Nov-2019 18:36:33 Etc/GMT] PHP Notice:  Undefined index: username in /home/waiphyo719/public_html/cdr-ucsmtla/admin/index.php on line 46
+[11-Nov-2019 18:36:33 Etc/GMT] PHP Notice:  Undefined index: username in /home/waiphyo719/public_html/cdr-ucsmtla/admin/requests.php on line 41
+[11-Nov-2019 18:50:55 Etc/GMT] PHP Notice:  Undefined index: username in /home/waiphyo719/public_html/cdr-ucsmtla/admin/index.php on line 46
+[12-Nov-2019 15:17:40 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/waiphyo719/public_html/cdr-ucsmtla/admin/request-confirm.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/waiphyo719/public_html/cdr-ucsmtla/admin/request-confirm.php on line 19
+[12-Nov-2019 15:17:48 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/waiphyo719/public_html/cdr-ucsmtla/admin/request-confirm.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/waiphyo719/public_html/cdr-ucsmtla/admin/request-confirm.php on line 19
+[12-Nov-2019 15:18:01 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/waiphyo719/public_html/cdr-ucsmtla/admin/confirm-register.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/waiphyo719/public_html/cdr-ucsmtla/admin/confirm-register.php on line 23
+[13-Nov-2019 03:21:24 Etc/GMT] PHP Notice:  Undefined index: username in /home/waiphyo719/public_html/cdr-ucsmtla/admin/index.php on line 46
+[13-Nov-2019 04:49:13 Etc/GMT] PHP Notice:  Undefined index: username in /home/waiphyo719/public_html/cdr-ucsmtla/admin/index.php on line 46
+[13-Nov-2019 04:49:13 Etc/GMT] PHP Notice:  Undefined index: username in /home/waiphyo719/public_html/cdr-ucsmtla/admin/requests.php on line 41
+[13-Nov-2019 05:56:20 Etc/GMT] PHP Notice:  Undefined index: username in /home/waiphyo719/public_html/cdr-ucsmtla/admin/index.php on line 46
+[13-Nov-2019 05:56:20 Etc/GMT] PHP Notice:  Undefined index: username in /home/waiphyo719/public_html/cdr-ucsmtla/admin/requests.php on line 41
+[13-Nov-2019 06:59:45 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/waiphyo719/public_html/cdr-ucsmtla/admin/request-confirm.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/waiphyo719/public_html/cdr-ucsmtla/admin/request-confirm.php on line 19
+[13-Nov-2019 07:17:24 Etc/GMT] PHP Notice:  Undefined index: username in /home/waiphyo719/public_html/cdr-ucsmtla/admin/index.php on line 47
+[13-Nov-2019 08:09:54 Etc/GMT] PHP Notice:  Undefined index: username in /home/waiphyo719/public_html/cdr-ucsmtla/admin/index.php on line 47
+[13-Nov-2019 08:09:55 Etc/GMT] PHP Notice:  Undefined index: username in /home/waiphyo719/public_html/cdr-ucsmtla/admin/requests.php on line 41
+[13-Nov-2019 13:33:17 Etc/GMT] PHP Notice:  Undefined index: username in /home/waiphyo719/public_html/cdr-ucsmtla/admin/index.php on line 47
+[13-Nov-2019 13:33:17 Etc/GMT] PHP Notice:  Undefined index: username in /home/waiphyo719/public_html/cdr-ucsmtla/admin/requests.php on line 41
+[13-Nov-2019 13:33:17 Etc/GMT] PHP Notice:  Undefined index: username in /home/waiphyo719/public_html/cdr-ucsmtla/admin/index.php on line 47
+[13-Nov-2019 13:33:17 Etc/GMT] PHP Notice:  Undefined index: username in /home/waiphyo719/public_html/cdr-ucsmtla/admin/requests.php on line 41
+[13-Nov-2019 14:40:16 Etc/GMT] PHP Notice:  Undefined index: username in /home/waiphyo719/public_html/cdr-ucsmtla/admin/index.php on line 47
+[13-Nov-2019 14:40:16 Etc/GMT] PHP Notice:  Undefined index: username in /home/waiphyo719/public_html/cdr-ucsmtla/admin/requests.php on line 41
+[13-Nov-2019 23:25:26 Etc/GMT] PHP Notice:  Undefined index: username in /home/waiphyo719/public_html/cdr-ucsmtla/admin/index.php on line 47
+[13-Nov-2019 23:25:26 Etc/GMT] PHP Notice:  Undefined index: username in /home/waiphyo719/public_html/cdr-ucsmtla/admin/confirm.php on line 42
+[15-Nov-2019 15:22:38 Etc/GMT] PHP Notice:  Undefined index: username in /home/waiphyo719/public_html/cdr-ucsmtla/admin/index.php on line 47
+[15-Nov-2019 15:22:38 Etc/GMT] PHP Notice:  Undefined index: username in /home/waiphyo719/public_html/cdr-ucsmtla/admin/requests.php on line 41
+[15-Nov-2019 15:22:38 Etc/GMT] PHP Notice:  Undefined index: username in /home/waiphyo719/public_html/cdr-ucsmtla/admin/requests.php on line 41
+[15-Nov-2019 15:34:46 Etc/GMT] PHP Notice:  Undefined index: half in /home/waiphyo719/public_html/cdr-ucsmtla/admin/confirm-register.php on line 6
+[15-Nov-2019 15:34:46 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/waiphyo719/public_html/cdr-ucsmtla/admin/confirm-register.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/waiphyo719/public_html/cdr-ucsmtla/admin/confirm-register.php on line 23
+[15-Nov-2019 22:39:20 Asia/Yangon] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/waiphyo719/public_html/cdr-ucsmtla/admin/request-confirm.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/waiphyo719/public_html/cdr-ucsmtla/admin/request-confirm.php on line 22
+[15-Nov-2019 16:10:04 Etc/GMT] PHP Notice:  Undefined index: half in /home/waiphyo719/public_html/cdr-ucsmtla/admin/confirm-register.php on line 6
+[15-Nov-2019 22:40:04 Asia/Yangon] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/waiphyo719/public_html/cdr-ucsmtla/admin/confirm-register.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/waiphyo719/public_html/cdr-ucsmtla/admin/confirm-register.php on line 26
+[15-Nov-2019 16:30:04 Etc/GMT] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/waiphyo719/public_html/cdr-ucsmtla/admin/confirm.php on line 37
+[15-Nov-2019 16:30:13 Etc/GMT] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/waiphyo719/public_html/cdr-ucsmtla/admin/confirm.php on line 37
+[15-Nov-2019 23:01:31 Asia/Yangon] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/waiphyo719/public_html/cdr-ucsmtla/admin/request-confirm.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/waiphyo719/public_html/cdr-ucsmtla/admin/request-confirm.php on line 22
+[15-Nov-2019 23:09:00 Asia/Yangon] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/waiphyo719/public_html/cdr11batch/admin/request-confirm.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/waiphyo719/public_html/cdr11batch/admin/request-confirm.php on line 22
+[15-Nov-2019 23:09:35 Asia/Yangon] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/waiphyo719/public_html/cdr11batch/admin/confirm-register.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/waiphyo719/public_html/cdr11batch/admin/confirm-register.php on line 26
+[15-Nov-2019 23:09:50 Asia/Yangon] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/waiphyo719/public_html/cdr11batch/admin/register-reminder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/waiphyo719/public_html/cdr11batch/admin/register-reminder.php on line 19
+[15-Nov-2019 17:37:28 Etc/GMT] PHP Notice:  Undefined index: username in /home/waiphyo719/public_html/cdr11batch/admin/index.php on line 47
+[15-Nov-2019 17:37:39 Etc/GMT] PHP Notice:  Undefined index: username in /home/waiphyo719/public_html/cdr11batch/admin/index.php on line 47
+[15-Nov-2019 17:48:58 Etc/GMT] PHP Notice:  Undefined index: username in /home/waiphyo719/public_html/cdr11batch/admin/index.php on line 47
+[15-Nov-2019 17:49:04 Etc/GMT] PHP Notice:  Undefined index: username in /home/waiphyo719/public_html/cdr11batch/admin/index.php on line 47
+[15-Nov-2019 17:49:08 Etc/GMT] PHP Notice:  Undefined index: username in /home/waiphyo719/public_html/cdr11batch/admin/index.php on line 47
+[15-Nov-2019 17:49:09 Etc/GMT] PHP Notice:  Undefined index: username in /home/waiphyo719/public_html/cdr11batch/admin/index.php on line 47
+[16-Nov-2019 00:24:32 Etc/GMT] PHP Notice:  Undefined index: username in /home/waiphyo719/public_html/cdr11batch/admin/index.php on line 47
+[16-Nov-2019 00:24:35 Etc/GMT] PHP Notice:  Undefined index: username in /home/waiphyo719/public_html/cdr11batch/admin/index.php on line 47
+[16-Nov-2019 00:58:48 Etc/GMT] PHP Notice:  Undefined index: username in /home/waiphyo719/public_html/cdr11batch/admin/index.php on line 47
+[16-Nov-2019 00:58:51 Etc/GMT] PHP Notice:  Undefined index: username in /home/waiphyo719/public_html/cdr11batch/admin/index.php on line 47
+[16-Nov-2019 09:08:58 Asia/Yangon] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/waiphyo719/public_html/cdr11batch/admin/request-confirm.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/waiphyo719/public_html/cdr11batch/admin/request-confirm.php on line 22
+[16-Nov-2019 02:52:34 Etc/GMT] PHP Notice:  Undefined index: username in /home/waiphyo719/public_html/cdr11batch/admin/index.php on line 49
+[16-Nov-2019 02:52:34 Etc/GMT] PHP Notice:  Undefined index: username in /home/waiphyo719/public_html/cdr11batch/admin/confirm.php on line 47
+[16-Nov-2019 03:26:19 Etc/GMT] PHP Warning:  explode(): Empty delimiter in /home/waiphyo719/public_html/cdr11batch/admin/requests.php on line 45
+[16-Nov-2019 03:26:19 Etc/GMT] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/waiphyo719/public_html/cdr11batch/admin/requests.php on line 45
+[16-Nov-2019 03:26:19 Etc/GMT] PHP Warning:  implode(): Invalid arguments passed in /home/waiphyo719/public_html/cdr11batch/admin/requests.php on line 45
+[16-Nov-2019 03:26:22 Etc/GMT] PHP Warning:  explode(): Empty delimiter in /home/waiphyo719/public_html/cdr11batch/admin/requests.php on line 45
+[16-Nov-2019 03:26:22 Etc/GMT] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/waiphyo719/public_html/cdr11batch/admin/requests.php on line 45
+[16-Nov-2019 03:26:22 Etc/GMT] PHP Warning:  implode(): Invalid arguments passed in /home/waiphyo719/public_html/cdr11batch/admin/requests.php on line 45
+[16-Nov-2019 03:28:56 Etc/GMT] PHP Warning:  explode() expects at most 3 parameters, 4 given in /home/waiphyo719/public_html/cdr11batch/admin/requests.php on line 45
+[16-Nov-2019 03:30:54 Etc/GMT] PHP Warning:  explode(): Empty delimiter in /home/waiphyo719/public_html/cdr11batch/admin/requests.php on line 45
+[16-Nov-2019 03:31:24 Etc/GMT] PHP Warning:  implode() expects at most 2 parameters, 3 given in /home/waiphyo719/public_html/cdr11batch/admin/requests.php on line 45
+[16-Nov-2019 03:33:30 Etc/GMT] PHP Warning:  implode() expects at most 2 parameters, 3 given in /home/waiphyo719/public_html/cdr11batch/admin/requests.php on line 45
+[16-Nov-2019 03:39:38 Etc/GMT] PHP Notice:  Array to string conversion in /home/waiphyo719/public_html/cdr11batch/admin/viewdetail.php on line 65
+[16-Nov-2019 03:40:07 Etc/GMT] PHP Warning:  explode() expects at most 3 parameters, 4 given in /home/waiphyo719/public_html/cdr11batch/admin/viewdetail.php on line 65
+[16-Nov-2019 10:14:35 Asia/Yangon] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/waiphyo719/public_html/cdr11batch/admin/request-confirm.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/waiphyo719/public_html/cdr11batch/admin/request-confirm.php on line 22
+[16-Nov-2019 10:14:43 Asia/Yangon] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/waiphyo719/public_html/cdr11batch/admin/confirm-register.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/waiphyo719/public_html/cdr11batch/admin/confirm-register.php on line 26
+[16-Nov-2019 10:14:48 Asia/Yangon] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/waiphyo719/public_html/cdr11batch/admin/register-reminder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/waiphyo719/public_html/cdr11batch/admin/register-reminder.php on line 19
+[16-Nov-2019 10:24:48 Asia/Yangon] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/waiphyo719/public_html/cdr11batch/admin/request-confirm.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/waiphyo719/public_html/cdr11batch/admin/request-confirm.php on line 22
+[16-Nov-2019 10:24:56 Asia/Yangon] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/waiphyo719/public_html/cdr11batch/admin/confirm-register.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/waiphyo719/public_html/cdr11batch/admin/confirm-register.php on line 26
+[16-Nov-2019 10:34:28 Asia/Yangon] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/waiphyo719/public_html/cdr11batch/admin/request-confirm.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/waiphyo719/public_html/cdr11batch/admin/request-confirm.php on line 22
+[16-Nov-2019 10:34:42 Asia/Yangon] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/waiphyo719/public_html/cdr11batch/admin/request-confirm.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/waiphyo719/public_html/cdr11batch/admin/request-confirm.php on line 22
+[16-Nov-2019 10:34:56 Asia/Yangon] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/waiphyo719/public_html/cdr11batch/admin/request-confirm.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/waiphyo719/public_html/cdr11batch/admin/request-confirm.php on line 22
+[16-Nov-2019 04:05:09 Etc/GMT] PHP Notice:  Undefined index: half in /home/waiphyo719/public_html/cdr11batch/admin/confirm-register.php on line 6
+[16-Nov-2019 10:35:09 Asia/Yangon] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/waiphyo719/public_html/cdr11batch/admin/confirm-register.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/waiphyo719/public_html/cdr11batch/admin/confirm-register.php on line 26
+[16-Nov-2019 10:35:23 Asia/Yangon] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/waiphyo719/public_html/cdr11batch/admin/confirm-register.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/waiphyo719/public_html/cdr11batch/admin/confirm-register.php on line 26
+[16-Nov-2019 11:06:01 Asia/Yangon] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/waiphyo719/public_html/cdr11batch/admin/request-confirm.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/waiphyo719/public_html/cdr11batch/admin/request-confirm.php on line 22
+[16-Nov-2019 11:11:26 Asia/Yangon] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/waiphyo719/public_html/cdr11batch/admin/confirm-register.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/waiphyo719/public_html/cdr11batch/admin/confirm-register.php on line 26
+[16-Nov-2019 11:17:50 Asia/Yangon] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/waiphyo719/public_html/cdr11batch/admin/request-confirm.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/waiphyo719/public_html/cdr11batch/admin/request-confirm.php on line 22
+[16-Nov-2019 04:47:56 Etc/GMT] PHP Notice:  Undefined index: half in /home/waiphyo719/public_html/cdr11batch/admin/confirm-register.php on line 6
+[16-Nov-2019 11:17:56 Asia/Yangon] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/waiphyo719/public_html/cdr11batch/admin/confirm-register.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/waiphyo719/public_html/cdr11batch/admin/confirm-register.php on line 26
+[16-Nov-2019 11:18:43 Asia/Yangon] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/waiphyo719/public_html/cdr11batch/admin/register-reminder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/waiphyo719/public_html/cdr11batch/admin/register-reminder.php on line 19
+[16-Nov-2019 11:26:07 Asia/Yangon] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/waiphyo719/public_html/cdr11batch/admin/register-reminder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/waiphyo719/public_html/cdr11batch/admin/register-reminder.php on line 19
+[16-Nov-2019 17:13:16 Asia/Yangon] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/waiphyo719/public_html/cdr11batch/admin/confirm-register.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/waiphyo719/public_html/cdr11batch/admin/confirm-register.php on line 26
+[16-Nov-2019 17:14:41 Asia/Yangon] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/waiphyo719/public_html/cdr11batch/admin/register-reminder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/waiphyo719/public_html/cdr11batch/admin/register-reminder.php on line 19
+[16-Nov-2019 10:44:58 Etc/GMT] PHP Notice:  Undefined index: id in /home/waiphyo719/public_html/cdr11batch/admin/issue-slip.php on line 6
+[16-Nov-2019 10:45:04 Etc/GMT] PHP Notice:  Undefined index: id in /home/waiphyo719/public_html/cdr11batch/admin/issue-slip.php on line 6
+[16-Nov-2019 10:45:09 Etc/GMT] PHP Notice:  Undefined index: id in /home/waiphyo719/public_html/cdr11batch/admin/issue-slip.php on line 6
+[16-Nov-2019 10:52:10 Etc/GMT] PHP Notice:  Undefined index: id in /home/waiphyo719/public_html/cdr11batch/admin/issue-slip.php on line 6
+[16-Nov-2019 12:56:01 Etc/GMT] PHP Notice:  Undefined index: id in /home/waiphyo719/public_html/cdr11batch/admin/issue-slip.php on line 6
+[16-Nov-2019 12:57:33 Etc/GMT] PHP Notice:  Undefined index: username in /home/waiphyo719/public_html/cdr11batch/admin/index.php on line 49
+[16-Nov-2019 20:15:58 Asia/Yangon] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/waiphyo719/public_html/cdr11batch/admin/request-confirm.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/waiphyo719/public_html/cdr11batch/admin/request-confirm.php on line 22
+[16-Nov-2019 14:08:32 Etc/GMT] PHP Notice:  Undefined index: half in /home/waiphyo719/public_html/cdr11batch/admin/confirm-register.php on line 6
+[16-Nov-2019 20:38:32 Asia/Yangon] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/waiphyo719/public_html/cdr11batch/admin/confirm-register.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/waiphyo719/public_html/cdr11batch/admin/confirm-register.php on line 26
+[16-Nov-2019 20:51:21 Asia/Yangon] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/waiphyo719/public_html/cdr11batch/admin/request-confirm.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/waiphyo719/public_html/cdr11batch/admin/request-confirm.php on line 22
+[16-Nov-2019 20:52:03 Asia/Yangon] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/waiphyo719/public_html/cdr11batch/admin/confirm-register.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/waiphyo719/public_html/cdr11batch/admin/confirm-register.php on line 26
+[16-Nov-2019 20:52:48 Asia/Yangon] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/waiphyo719/public_html/cdr11batch/admin/register-reminder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/waiphyo719/public_html/cdr11batch/admin/register-reminder.php on line 19
+[16-Nov-2019 20:52:50 Asia/Yangon] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/waiphyo719/public_html/cdr11batch/admin/register-reminder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/waiphyo719/public_html/cdr11batch/admin/register-reminder.php on line 19
+[16-Nov-2019 14:45:52 Etc/GMT] PHP Notice:  Undefined index: username in /home/waiphyo719/public_html/cdr11batch/admin/index.php on line 49
+[16-Nov-2019 15:53:07 Etc/GMT] PHP Notice:  Undefined index: username in /home/waiphyo719/public_html/cdr11batch/admin/index.php on line 49
+[16-Nov-2019 15:55:13 Etc/GMT] PHP Notice:  Undefined index: username in /home/waiphyo719/public_html/cdr11batch/admin/index.php on line 49
+[16-Nov-2019 15:55:21 Etc/GMT] PHP Notice:  Undefined index: username in /home/waiphyo719/public_html/cdr11batch/admin/index.php on line 49
+[16-Nov-2019 15:55:24 Etc/GMT] PHP Notice:  Undefined index: username in /home/waiphyo719/public_html/cdr11batch/admin/index.php on line 49
+[16-Nov-2019 16:52:21 Etc/GMT] PHP Notice:  Undefined index: username in /home/waiphyo719/public_html/cdr11batch/admin/index.php on line 49
+[16-Nov-2019 16:55:37 Etc/GMT] PHP Notice:  Undefined index: username in /home/waiphyo719/public_html/cdr11batch/admin/index.php on line 49
+[16-Nov-2019 16:55:44 Etc/GMT] PHP Notice:  Undefined index: username in /home/waiphyo719/public_html/cdr11batch/admin/index.php on line 49
+[16-Nov-2019 16:55:51 Etc/GMT] PHP Notice:  Undefined index: username in /home/waiphyo719/public_html/cdr11batch/admin/index.php on line 49
+[16-Nov-2019 16:56:23 Etc/GMT] PHP Notice:  Undefined index: username in /home/waiphyo719/public_html/cdr11batch/admin/index.php on line 49
+[16-Nov-2019 16:56:29 Etc/GMT] PHP Notice:  Undefined index: username in /home/waiphyo719/public_html/cdr11batch/admin/index.php on line 49
+[16-Nov-2019 16:56:32 Etc/GMT] PHP Notice:  Undefined index: username in /home/waiphyo719/public_html/cdr11batch/admin/index.php on line 49
+[16-Nov-2019 16:56:36 Etc/GMT] PHP Notice:  Undefined index: username in /home/waiphyo719/public_html/cdr11batch/admin/index.php on line 49
+[16-Nov-2019 16:56:39 Etc/GMT] PHP Notice:  Undefined index: username in /home/waiphyo719/public_html/cdr11batch/admin/index.php on line 49
+[16-Nov-2019 16:56:50 Etc/GMT] PHP Notice:  Undefined index: username in /home/waiphyo719/public_html/cdr11batch/admin/index.php on line 49
+[16-Nov-2019 16:56:55 Etc/GMT] PHP Notice:  Undefined index: username in /home/waiphyo719/public_html/cdr11batch/admin/index.php on line 49
+[17-Nov-2019 01:17:18 Etc/GMT] PHP Notice:  Undefined index: username in /home/waiphyo719/public_html/cdr11batch/admin/index.php on line 49
+[17-Nov-2019 01:19:52 Etc/GMT] PHP Notice:  Undefined index: username in /home/waiphyo719/public_html/cdr11batch/admin/index.php on line 49
+[17-Nov-2019 04:24:52 Etc/GMT] PHP Notice:  Undefined index: username in /home/waiphyo719/public_html/cdr11batch/admin/index.php on line 49
+[17-Nov-2019 08:38:22 Etc/GMT] PHP Notice:  Undefined index: username in /home/waiphyo719/public_html/cdr11batch/admin/index.php on line 49
+[17-Nov-2019 16:07:26 Asia/Yangon] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/waiphyo719/public_html/cdr11batch/admin/request-confirm.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/waiphyo719/public_html/cdr11batch/admin/request-confirm.php on line 22
+[17-Nov-2019 16:07:34 Asia/Yangon] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/waiphyo719/public_html/cdr11batch/admin/confirm-register.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/waiphyo719/public_html/cdr11batch/admin/confirm-register.php on line 26
+[17-Nov-2019 16:07:38 Asia/Yangon] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/waiphyo719/public_html/cdr11batch/admin/register-reminder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/waiphyo719/public_html/cdr11batch/admin/register-reminder.php on line 19
